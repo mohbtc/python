@@ -28,8 +28,8 @@ def key_num(num, result=None):
     return result
 
 
-def print_key(num):
-    for i in key_num(num):
+def print_key(100):
+    for i in key_num(100):
         print i
 
 
